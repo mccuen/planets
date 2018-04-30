@@ -1,2 +1,2 @@
 Jupiter is a planet.
-It is not a mouse or a car.
+It is not a mouse or a car or a table.
